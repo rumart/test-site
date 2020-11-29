@@ -1,0 +1,11 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+
+
+theme = ["hugo-clarity"]
+title = "My testing site"
+
+[params]
+author = "Rudi Martinsen"
+description = "Testing Testing Testing"
+
